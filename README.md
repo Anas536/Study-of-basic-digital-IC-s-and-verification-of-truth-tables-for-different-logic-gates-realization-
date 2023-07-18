@@ -12,14 +12,7 @@ Software – Quartus prime
 Theory
 # Introduction
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
-
-AND gate
-OR gate
-NOT gate
-NAND gate
-NOR gate
-Ex-OR gate
-Ex-NOR gate
+ 
 1) AND gate
 The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB
 
@@ -64,7 +57,8 @@ Check all the gates following the same procedure.
 
 # Program: 
 
-![image](https://github.com/Anas536/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841834/538c02f1-07b2-41e7-be2d-1a33035886d7)
+![image](https://github.com/Anas536/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841834/75efa55a-afe7-4db8-969b-2a7472365403)
+
 
 
 
