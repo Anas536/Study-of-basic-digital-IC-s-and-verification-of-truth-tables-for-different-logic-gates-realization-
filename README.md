@@ -13,16 +13,16 @@ Theory
 # Introduction
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
-AND gate
-OR gate
-NOT gate
-NAND gate
-NOR gate
-EX-OR gate
-EX-NOR gate
- 
 1) AND gate
-The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB
+2) OR gate
+3) NOT gate
+4) NAND gate
+5) NOR gate
+6) EX-OR gate
+7) EX-NOR gate
+  
+1) AND gate
+The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB.
 
 Y= A.B
 
